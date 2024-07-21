@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bascompfu.github.io/sitemap
+Sitemap: https://bascompfu.github.io/app/sitemap
+Sitemap: https://bascompfu.github.io/assets/sitemap
+Sitemap: https://bascompfu.github.io/css/sitemap
+Sitemap: https://bascompfu.github.io/includes/sitemap
+Sitemap: https://bascompfu.github.io/item/sitemap
+Sitemap: https://bascompfu.github.io/src/sitemap
